@@ -9,9 +9,9 @@ A Helm chart for Kubernetes
 To access charts from this from the cli repository add it:
 
 ```sh
-helm repo add strangiato https://strangiato.github.io/helm-charts/
-helm repo update strangiato
-helm upgrade -i [release-name] strangiato/argocd
+helm repo add jjrohrb https://jjrohrb.github.io/helm-charts/
+helm repo update jjrohrb
+helm upgrade -i [release-name] jjrohrb/argocd
 ```
 
 To include a chart from this repository in an umbrella chart, include it in your dependencies in your `Chart.yaml` file.
@@ -29,7 +29,7 @@ appVersion: "1.16.0"
 dependencies:
   - name: "argocd"
     version: "0.3.6"
-    repository: "https://strangiato.github.io/helm-charts/"
+    repository: "https://jjrohrb.github.io/helm-charts/"
 ```
 
 ## Requirements

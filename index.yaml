@@ -1,1 +1,813 @@
-
+apiVersion: v1
+entries:
+  argocd:
+  - apiVersion: v2
+    appVersion: "1.6"
+    created: "2023-09-26T23:04:26.033479209Z"
+    description: A Helm chart for Kubernetes
+    digest: 26674793e3ba636bc78702dff731a81c321de5a9a885afe6c1830dac9400875c
+    kubeVersion: '>= 1.19.0'
+    name: argocd
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/argocd-0.3.6.tgz
+    version: 0.3.6
+  - apiVersion: v2
+    appVersion: "1.6"
+    created: "2022-10-27T02:19:06.874924593Z"
+    description: A Helm chart for Kubernetes
+    digest: 099fb4f37b10321c77d0823ace336795fab29335a485e8f58cc25462f0551afd
+    kubeVersion: '>= 1.19.0'
+    name: argocd
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/argocd-0.3.5.tgz
+    version: 0.3.5
+  - apiVersion: v2
+    appVersion: "1.6"
+    created: "2022-09-19T14:55:10.902159578Z"
+    description: A Helm chart for Kubernetes
+    digest: 1e447fc529d8568ed79b3e529c6460282a495dbbd59f294dd428e5255ff943c4
+    kubeVersion: '>= 1.19.0'
+    name: argocd
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/argocd-0.3.4.tgz
+    version: 0.3.4
+  - apiVersion: v2
+    appVersion: "1.6"
+    created: "2022-09-19T14:46:44.507810116Z"
+    description: A Helm chart for Kubernetes
+    digest: 7a620a1225c8103537a916570ad28698b7151473c0471c0377880b20c317e43d
+    kubeVersion: '>= 1.19.0'
+    name: argocd
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/argocd-0.3.3.tgz
+    version: 0.3.3
+  - apiVersion: v2
+    appVersion: "1.6"
+    created: "2022-09-16T22:27:22.706463194Z"
+    description: A Helm chart for Kubernetes
+    digest: fc9058e2abba9d6c566ee0c62dc1e929972d036c37f7dbeab00af81dd98de7d9
+    kubeVersion: '>= 1.19.0'
+    name: argocd
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/argocd-0.3.2.tgz
+    version: 0.3.2
+  - apiVersion: v2
+    appVersion: "1.6"
+    created: "2022-09-15T22:03:47.348729633Z"
+    description: A Helm chart for Kubernetes
+    digest: e6597625b2a692bf08a008faa310a7adae3301e78a32a67dd299ebdddb56ab26
+    kubeVersion: '>= 1.19.0'
+    name: argocd
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/argocd-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v2
+    appVersion: "1.6"
+    created: "2022-09-15T21:59:15.647015444Z"
+    description: A Helm chart for Kubernetes
+    digest: 1b76feaf2b5e45c9d837e9315ba596e55ff1c9cd395d6b0bdb1a53db7f4493e5
+    kubeVersion: '>= 1.19.0'
+    name: argocd
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/argocd-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: "1.6"
+    created: "2022-09-15T21:43:29.648099822Z"
+    description: A Helm chart for Kubernetes
+    digest: ec7c91f982ae373c1f00428e2e3b53915687eff583ecd9714eae6a5ae14cb94e
+    kubeVersion: '>= 1.19.0'
+    name: argocd
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/argocd-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-15T20:28:39.779120411Z"
+    description: A Helm chart for Kubernetes
+    digest: 0bc8deaede0aa458ea2cfc4916f507d3310d7c086756cfebf4deeb9b4e6fe935
+    kubeVersion: '>= 1.19.0'
+    name: argocd
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/argocd-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-11T02:51:05.374876673Z"
+    description: A Helm chart for Kubernetes
+    digest: 55ef36e8a049a7d53dd32e024189c9badb4b4c82224fc7b78b640b5726172b7c
+    kubeVersion: '>= 1.19.0'
+    name: argocd
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/argocd-0.1.0.tgz
+    version: 0.1.0
+  gitops-tenant:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2023-09-26T23:04:26.034167511Z"
+    description: A Helm chart for Kubernetes
+    digest: 97dbaa436696ba0436d20814e847d09f910159196dbfcedcb963fb699f815bb6
+    kubeVersion: '>= 1.19.0'
+    name: gitops-tenant
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/gitops-tenant-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-28T19:14:43.199768815Z"
+    description: A Helm chart for Kubernetes
+    digest: 64b77ee11e20e9632dea7892e8d29a9e2dcac14256abbaaab1db88fe1bd0c0b9
+    kubeVersion: '>= 1.19.0'
+    name: gitops-tenant
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/gitops-tenant-0.1.0.tgz
+    version: 0.1.0
+  hello-openshift:
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2023-09-26T23:04:26.035087715Z"
+    description: A helm chart for generating a deployment using Openshift built in
+      hello-openshift image
+    digest: 1ffe288085a77e4f007e4430c5459f1b5e5d101d16dad8d814a180ed78efca3b
+    kubeVersion: '>= 1.19.0'
+    name: hello-openshift
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/hello-openshift-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: latest
+    created: "2022-11-14T18:08:57.613486734Z"
+    description: A helm chart for generating a deployment using Openshift built in
+      hello-openshift image
+    digest: c3c65659a05f7a470660f0a3d10d902086532f05dbc3fe07b6de208f90639892
+    kubeVersion: '>= 1.19.0'
+    name: hello-openshift
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/hello-openshift-0.1.0.tgz
+    version: 0.1.0
+  mlflow-server:
+  - apiVersion: v2
+    appVersion: "2.6"
+    created: "2023-09-26T23:04:26.036917422Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: e0f93144b9e6133a6173caeef89657dd6502d94daebf9998ea2deca44f6a3804
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.6.2.tgz
+    version: 0.6.2
+  - apiVersion: v2
+    appVersion: "2.6"
+    created: "2023-09-05T03:42:34.79627716Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 5c3d881e4320b22b5e761c4c443c98f0bbadc1f3f72b3ec960c265a754d67bb3
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.6.1.tgz
+    version: 0.6.1
+  - apiVersion: v2
+    appVersion: "2.5"
+    created: "2023-07-17T21:39:36.842089793Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 707e4da05c8b9dac07e93c8b56d1ca79b4e9a7887d9014837ea2efec388fa1c8
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v2
+    appVersion: "2.3"
+    created: "2023-04-28T14:59:14.593455398Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 4f32160f19db62e8323a8715f6cab85dc62368ab2128ffc77714598308a7b975
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.5.8.tgz
+    version: 0.5.8
+  - apiVersion: v2
+    appVersion: "2.0"
+    created: "2023-01-24T23:53:32.79223443Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 5017e05fa3337f248911da3d3fae740e816280790ae08e6a8e746c2cb4f94326
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.5.7.tgz
+    version: 0.5.7
+  - apiVersion: v2
+    appVersion: "2.0"
+    created: "2023-01-06T18:19:38.748996197Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 922d147a3450fd49d1df7206d9ae248a5cc73c690cd826c8aea2ac8b3fa4cca8
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.5.6.tgz
+    version: 0.5.6
+  - apiVersion: v2
+    appVersion: "1.30"
+    created: "2022-11-28T19:53:17.94693014Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 6a671a98caa9533baa89b9270185461c0b9b395cbeee1154de791e00829bf3f6
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.5.5.tgz
+    version: 0.5.5
+  - apiVersion: v2
+    appVersion: "1.29"
+    created: "2022-10-18T18:55:57.908851314Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 4a2bc9b34e0f308fce453abdda5c064705fe1c510cd2f3f0a94dd2ee97017fcc
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.5.4.tgz
+    version: 0.5.4
+  - apiVersion: v2
+    appVersion: "1.29"
+    created: "2022-10-18T18:54:03.867336772Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: be7250898b843edf9ea4f82d1c85c6d9a0f53f1567fba8501e06ed6f77dad3f0
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.5.3.tgz
+    version: 0.5.3
+  - apiVersion: v2
+    appVersion: "1.28"
+    created: "2022-09-20T18:12:09.692159815Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: f0a1e3d4ccbf9b6eb821dcb7c118d27be08b7b1b681e1730b2fc1f7b80476e68
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.5.2.tgz
+    version: 0.5.2
+  - apiVersion: v2
+    appVersion: "1.28"
+    created: "2022-09-10T21:53:33.618305217Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 8fc3481bea6a11e7dd1c3a7f82f711400c757287da25946be4a5862f4b65e4e2
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.5.1.tgz
+    version: 0.5.1
+  - apiVersion: v2
+    appVersion: "1.27"
+    created: "2022-09-10T21:51:13.728555357Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: ae3e8b303f94da4c6e050e81734dfc28b1de8e8918f188eee59dd9da8ab61982
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    appVersion: "1.27"
+    created: "2022-09-08T22:35:51.219425409Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: b096d26929f12c4d6e03f1b7932eddcc34c8aac8ba0f3016b3330e7c900cda9d
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: "1.27"
+    created: "2022-09-08T01:49:13.645939541Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 7ea558a6423fc32f9fca09073979ac25358b207636395e95db0bab06e0713ee0
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v2
+    appVersion: "1.27"
+    created: "2022-09-08T01:30:00.834288846Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 2671f20af310bfce6eeea93e8032acc045091c640af2ae64f6bdc66f1bcc1654
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: "1.27"
+    created: "2022-08-05T14:52:02.929222448Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 4e7fa0b16c15076bc2734d93c684c33e8d734dd40356249cbde12a1a185add2f
+    icon: https://avatars.githubusercontent.com/u/39938107
+    kubeVersion: '>= 1.21.0'
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v2
+    appVersion: "1.26"
+    created: "2022-06-28T21:23:55.1367337Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 0152636b9899ef3b26578eac80d6013323dfb78041a924cc3fe25a0fe1ad9eaf
+    icon: https://avatars.githubusercontent.com/u/39938107
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
+    appVersion: "1.25"
+    created: "2022-05-04T21:36:15.099172688Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: be3dbe813895ceb957c80f6e6c26fd269a859bada76b3d327f7ac2ce767e1c98
+    icon: https://avatars.githubusercontent.com/u/39938107
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: "1.25"
+    created: "2022-05-03T22:18:09.429755199Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 45d522f5ed681290e2cdf8ea21e54a4ece35251f9cc122e667d253e6e622af17
+    icon: https://avatars.githubusercontent.com/u/39938107
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: "1.25"
+    created: "2022-05-03T21:34:46.241760961Z"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: c39bd38c1a8595d0cd07028022fa009378f74c2b70fa8865adac433afd0a4e07
+    icon: https://avatars.githubusercontent.com/u/39938107
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: "1.25"
+    created: "2022-05-01T22:20:17.671705804Z"
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 29a39e64b7e9a0989823fc5fa8f710e688a852d8d460e22c7efec877b880b319
+    icon: https://avatars.githubusercontent.com/u/39938107
+    name: mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.1.0.tgz
+    version: 0.1.0
+  odh:
+  - apiVersion: v2
+    appVersion: v1.3
+    created: "2023-09-26T23:04:26.037660825Z"
+    deprecated: true
+    description: 'A Helm chart for configuring OpenDataHub on OpenShift  This chart
+      has been depreciated and moved to the [Red Hat Intelligent Application Practice
+      Helm Charts](https://github.com/rh-intelligent-application-practice/helm-charts/tree/main/charts/odh)
+      repo. '
+    digest: c892f89d332cdd36a6fa2221692f3f00d7ebf9a68decc651aa4735d9448f66b7
+    kubeVersion: '>= 1.19.0'
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.4.4.tgz
+    version: 0.4.4
+  - apiVersion: v2
+    appVersion: v1.3
+    created: "2022-11-14T18:03:56.466455125Z"
+    description: A Helm chart for configuring OpenDataHub on OpenShift
+    digest: 1e848bdf166791a9ac16f0554f5ded92846b005bfbf68786cf8eefda1560e26c
+    kubeVersion: '>= 1.19.0'
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.4.3.tgz
+    version: 0.4.3
+  - apiVersion: v2
+    appVersion: v1.3
+    created: "2022-09-20T18:08:11.441700161Z"
+    description: A Helm chart for configuring OpenDataHub on OpenShift
+    digest: 290bab237e91c06fd48f4827a4b567d2a5ec8ae0b69da78985ef52c08d1cf326
+    kubeVersion: '>= 1.19.0'
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.4.2.tgz
+    version: 0.4.2
+  - apiVersion: v2
+    appVersion: v1.3
+    created: "2022-09-20T18:04:58.97299528Z"
+    description: A Helm chart for configuring OpenDataHub on OpenShift
+    digest: 2512274757e852cd7bcf305f3f81c706093a91cd96c7725d8958048ffddd6e84
+    kubeVersion: '>= 1.19.0'
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.4.1.tgz
+    version: 0.4.1
+  - apiVersion: v2
+    appVersion: v1.3
+    created: "2022-09-20T17:45:41.196367843Z"
+    description: A Helm chart for configuring OpenDataHub on OpenShift
+    digest: 53074088cea88ddf14b850afb6e3ec2134eb49763b9881e3206e56009052a3e2
+    kubeVersion: '>= 1.19.0'
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: v1.2
+    created: "2022-09-20T02:00:35.601856365Z"
+    description: A Helm chart for configuring OpenDataHub on OpenShift
+    digest: 771acaba065ed506513b5f98a4c546196fe2ed464071728f073999767206e720
+    kubeVersion: '>= 1.19.0'
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v2
+    appVersion: v1.2
+    created: "2022-07-12T17:16:06.809594347Z"
+    description: A Helm chart for configuring OpenDataHub on OpenShift
+    digest: 10c45a2bf2db026b6233e14ced440ebec52c69745c6490c7f532960411f9bf13
+    kubeVersion: '>= 1.19.0'
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: v1.2
+    created: "2022-07-11T19:31:33.876857539Z"
+    description: A Helm chart for configuring OpenDataHub on OpenShift
+    digest: 008b4d6c11a18ed2525cfbde3562a7e386e7a1bf8d882cff29990ae6962106ba
+    kubeVersion: '>= 1.19.0'
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v2
+    appVersion: v1.2
+    created: "2022-06-23T21:40:01.480338529Z"
+    description: A Helm chart for configuring OpenDataHub on OpenShift
+    digest: b1734ee5fe3e8aeeb0ad93d5eec32d4f68fe7ae27bc3ce29eec170b35d14e1f9
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
+    appVersion: v1.2.0
+    created: "2022-06-22T22:37:42.488786099Z"
+    description: A Helm chart for configuring OpenDataHub on OpenShift
+    digest: 7dc3556ed3eaa7bc18c1708ff89c6cfc0a7c93563b7ea37189d31fba56e7c7e6
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: v1.1.2
+    created: "2022-06-14T14:14:04.381735917Z"
+    description: A Helm chart for configuring OpenDataHub on OpenShift
+    digest: 28d78d3312c64f764dd036eaa1e228920f17984cb2e78bb58333548c21cb40c1
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: v1.1.0
+    created: "2022-05-02T00:11:24.978155101Z"
+    description: A Helm chart for Kubernetes
+    digest: 9d80999108af93818f2c5f2fbea4fb055a1dd4a79f75b87bfb8a37d9e24763e6
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: v1.0.11
+    created: "2021-08-23T21:26:58.026970296Z"
+    description: A Helm chart for Kubernetes
+    digest: 9970d4797a670c6dc83b7c574f0cc6a7685e277a46006e3e954ce03f72297f4d
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.0.8
+    created: "2021-04-15T18:31:33.56571647Z"
+    description: A Helm chart for Kubernetes
+    digest: 5004f4f14122d9d04e90a3dc551ab983e6b5abb12445ae7767e12fb138ac46cd
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-04-07T23:20:18.912047338Z"
+    description: A Helm chart for configuring an OpenDataHub instance
+    digest: ec4113cb3441ffe73effcf61543401e6d1f511803a18691baf9bc8968ac15bf8
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.1.0.tgz
+    version: 0.1.0
+  postgrescluster:
+  - apiVersion: v2
+    appVersion: 5.0.5
+    created: "2023-09-26T23:04:26.038265227Z"
+    description: A Helm chart for deploying Postgres using the Crunchy Operator
+    digest: 1198074df3385540adebd91816f7f5cb11f2b2ad4dff8edc7ae2de534865bf91
+    name: postgrescluster
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/postgrescluster-0.2.2.tgz
+    version: 0.2.2
+  postgresql:
+  - apiVersion: v2
+    appVersion: "10"
+    created: "2023-09-26T23:04:26.038852229Z"
+    description: A Helm chart for deploying a basic postgres chart on OpenShift
+    digest: ab04ab5ccdd13af8ac3a14dda542e77767a72775e54cbfb86d3a820de0ca1450
+    kubeVersion: '>= 1.19.0'
+    name: postgresql
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/postgresql-0.1.0.tgz
+    version: 0.1.0
+  rgw-bucket-helper:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2023-09-26T23:04:26.039343331Z"
+    description: A Helm chart for configuring buckets using OpenShift Container Storage
+      RGW
+    digest: a6e36a2e0ef312d4f05dc1f0e64ba65beb0548d4d82c1d40e8b4c553cf21af4e
+    name: rgw-bucket-helper
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/rgw-bucket-helper-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-04-07T23:20:18.912482755Z"
+    description: A Helm chart for configuring buckets using OpenShift Container Storage
+      RGW
+    digest: 97c5f2c44b7f347b630af5163dec53997e2dc1b6990affa1f97820f161c43dd9
+    name: rgw-bucket-helper
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/rgw-bucket-helper-0.1.0.tgz
+    version: 0.1.0
+  rgw-user-setup-job:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2023-09-26T23:04:26.039825433Z"
+    description: A Helm chart for configuring an rgw user with OpenShift Container
+      Storage
+    digest: b4f91b559642bca724e51ef3af6455515cc18aca3c5d864c294c3bc9d2d03720
+    name: rgw-user-setup-job
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/rgw-user-setup-job-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: latest
+    created: "2021-05-13T16:46:17.144346782Z"
+    description: A Helm chart for configuring an rgw user with OpenShift Container
+      Storage
+    digest: 94e018867cfef554878325bddc774aadf4a0d7ecf4af6dc6e6e2ce73cf9931f0
+    name: rgw-user-setup-job
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/rgw-user-setup-job-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: latest
+    created: "2021-04-07T23:20:18.912904972Z"
+    description: A Helm chart for configuring an rgw user with OpenShift Container
+      Storage
+    digest: 9182f8057e4712aca935b32d2e6bb99f91a7f2dc9c0db6e0933e239337f1a016
+    name: rgw-user-setup-job
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/rgw-user-setup-job-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-26T23:04:26.031894103Z"
