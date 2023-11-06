@@ -1,0 +1,123 @@
+apiVersion: v1
+entries:
+  argocd:
+  - apiVersion: v2
+    appVersion: "1.6"
+    created: "2023-11-06T11:31:54.684124267-05:00"
+    description: A Helm chart for Kubernetes
+    digest: cac86fd0f93d38832fdfc54f5cb4beb2028964a20c4d4a622ca7e48c69de6a58
+    kubeVersion: '>= 1.19.0'
+    name: argocd
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/argocd-0.3.6.tgz
+    version: 0.3.6
+  gitops-tenant:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2023-11-06T11:31:54.684557979-05:00"
+    description: A Helm chart for Kubernetes
+    digest: f9829ceb396917677340f56b38b15fe4d22d4bc815df8ef258dbd1ccbbf432aa
+    kubeVersion: '>= 1.19.0'
+    name: gitops-tenant
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/gitops-tenant-0.2.0.tgz
+    version: 0.2.0
+  hello-openshift:
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2023-11-06T11:31:54.685064451-05:00"
+    description: A helm chart for generating a deployment using Openshift built in
+      hello-openshift image
+    digest: f160d68fba7616603165da889c626d4886b2b0e0ac0c5cf095b63f360d1c863d
+    kubeVersion: '>= 1.19.0'
+    name: hello-openshift
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/hello-openshift-0.1.1.tgz
+    version: 0.1.1
+  mlflow-server:
+  - apiVersion: v2
+    appVersion: "2.6"
+    created: "2023-11-06T11:31:54.686549395-05:00"
+    dependencies:
+    - condition: crunchyPostgres.enabled
+      name: postgrescluster
+      repository: https://jjrohrb.github.io/helm-charts/
+      version: 0.2.2
+    description: A Helm chart for deploying mlflow on OpenShift
+    digest: 45b027b32cff45fcae58dd44f38c00525dd145bde0ed7e1083bd55503c4133ea
+    icon: https://avatars.githubusercontent.com/u/39938107
+    name: mlflow-server
+    sources:
+    - https://github.com/jjrohrb/helm-charts/tree/main/charts/mlflow-server
+    - https://github.com/jjrohrb/mlflow-server
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/mlflow-server-0.6.2.tgz
+    version: 0.6.2
+  odh:
+  - apiVersion: v2
+    appVersion: v1.3
+    created: "2023-11-06T11:31:54.687226004-05:00"
+    deprecated: true
+    description: 'A Helm chart for configuring OpenDataHub on OpenShift  This chart
+      has been depreciated and moved to the [Red Hat Intelligent Application Practice
+      Helm Charts](https://github.com/rh-intelligent-application-practice/helm-charts/tree/main/charts/odh)
+      repo. '
+    digest: 4374018f47c87be3626001fa1a1d870946bbaa1c09024803c09854e9996e5ad8
+    kubeVersion: '>= 1.19.0'
+    name: odh
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/odh-0.4.4.tgz
+    version: 0.4.4
+  postgrescluster:
+  - apiVersion: v2
+    appVersion: 5.0.5
+    created: "2023-11-06T11:31:54.68774978-05:00"
+    description: A Helm chart for deploying Postgres using the Crunchy Operator
+    digest: 7cbb6eae3437c1ce9fe4fe28c54365788820cf46cd00c383cfc30992a7b873a1
+    name: postgrescluster
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/postgrescluster-0.2.2.tgz
+    version: 0.2.2
+  postgresql:
+  - apiVersion: v2
+    appVersion: "10"
+    created: "2023-11-06T11:31:54.688228971-05:00"
+    description: A Helm chart for deploying a basic postgres chart on OpenShift
+    digest: d09a270f82c7ef05adfbbe7c3e864215e9abc37fa582200c0fbb4dcb4e3a156b
+    kubeVersion: '>= 1.19.0'
+    name: postgresql
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/postgresql-0.1.0.tgz
+    version: 0.1.0
+  rgw-bucket-helper:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2023-11-06T11:31:54.688568689-05:00"
+    description: A Helm chart for configuring buckets using OpenShift Container Storage
+      RGW
+    digest: 35a4d2e8bbec66247f9072d64810fe7a58e012b56977422e87d9b8cc32a16d35
+    name: rgw-bucket-helper
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/rgw-bucket-helper-0.1.3.tgz
+    version: 0.1.3
+  rgw-user-setup-job:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2023-11-06T11:31:54.688908356-05:00"
+    description: A Helm chart for configuring an rgw user with OpenShift Container
+      Storage
+    digest: 38a421d93af48f8a00aec1c8ac23faf100fac0dc7b1be1952809c6c45f28c5cd
+    name: rgw-user-setup-job
+    type: application
+    urls:
+    - https://jjrohrb.github.io/helm-charts/rgw-user-setup-job-0.1.2.tgz
+    version: 0.1.2
+generated: "2023-11-06T11:31:54.683393921-05:00"
